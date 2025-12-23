@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anss</h1>
-<h3 align="center">A Passionate Frontend Developer & UI/UX Designer from Pakistan</h3>
+<h3 align="center">A Passionate Mern Stack Developer & UI/UX Designer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,10 +9,10 @@
 
 - 🔭 I'm currently working on **Generative AI**
 - 🌱 I'm currently learning **Back End Development**
-- 👯 I'm looking to collaborate on **interactive front-end projects**
+- 👯 I'm looking to collaborate on **interactive front-end and Back-end projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://anss-portfolio.vercel.app/)**
 - 💬 Ask me about **HTML, CSS, JavaScript, React and Node.js**
-- 📫 How to reach me: **ansslucky07@gmail.com**
+- 📫 How to reach me: **muhammadanssop07@gmail.com**
 - ⚡ Fun fact: **I love creating beautiful, responsive user interfaces**
 
 <h3 align="left">Connect with me:</h3>
