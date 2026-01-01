@@ -78,23 +78,6 @@
 
 <br/>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anss009&show_icons=true&theme=radical&hide_border=true&locale=en" alt="anss009" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anss009&theme=radical&hide_border=true" alt="anss009" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anss009&layout=compact&theme=radical&hide_border=true" alt="anss009" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anss009&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<br/>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
