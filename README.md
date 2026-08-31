@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Anss</h1>
+<h1 align="center">Hi , I'm Muhammad Anss</h1>
 <h3 align="center">A Passionate Mern Stack Developer & UI/UX Designer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,13 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=anss009&label=Profile%20views&color=0e75b6&style=flat" alt="anss009" /> 
 </p>
 
-- 🔭 I'm currently working on **Generative AI**
-- 🌱 I'm currently learning **Back End Development**
-- 👯 I'm looking to collaborate on **interactive front-end and Back-end projects**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://anss-portfolio.vercel.app/)**
-- 💬 Ask me about **HTML, CSS, JavaScript, React and Node.js**
-- 📫 How to reach me: **muhammadanssop07@gmail.com**
-- ⚡ Fun fact: **I love creating beautiful, responsive user interfaces**
+-  I'm currently working on **Generative AI**
+-  I'm currently learning **Back End Development**
+-  I'm looking to collaborate on **interactive front-end and Back-end projects**
+-  All of my projects are available at **[My Portfolio](https://anss-portfolio.vercel.app/)**
+-  Ask me about **HTML, CSS, JavaScript, React and Node.js**
+-  How to reach me: **muhammadanssop07@gmail.com**
+-  Fun fact: **I love creating beautiful, responsive user interfaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
